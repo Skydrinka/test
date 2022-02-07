@@ -1,2 +1,2 @@
 test
-Test~Szymon
+Test ~Szymon
