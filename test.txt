@@ -1,2 +1,2 @@
 test
-Test ~Szymon
+Push commit test ~Szymon
