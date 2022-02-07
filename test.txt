@@ -1,2 +1,0 @@
-test
-Push commit test ~Szymon
